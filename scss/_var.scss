@@ -1,0 +1,22 @@
+// Variables
+
+$white: hsl(0, 0%, 100%);
+$Dark_gray_blue: hsl(224, 30%, 27%);
+
+$btn-hover-gradient: linear-gradient(180deg, hsl(252, 100%, 67%) 0%, hsl(241, 81%, 54%) 100%);
+$result-bg-gradient: linear-gradient(180deg, hsl(252, 100%, 67%) 0%, hsl(241, 81%, 54%) 100%);
+$circle-gradient: linear-gradient(180deg, hsla(256, 72%, 46%, 1) 0%, hsla(241, 72%, 46%, 0) 100%);
+
+$accent-1: hsl(0, 100%, 67%);
+$accent-2: hsl(39, 100%, 56%);
+$accent-3: hsl(166, 100%, 37%);
+$accent-4: hsl(234, 85%, 45%);
+
+// Font
+
+$ff-primary: 'Hanken Grotesk';
+
+
+// Media query
+
+$desktop-media-query: 700px;
